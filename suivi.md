@@ -1,3 +1,9 @@
+[TOC]
+
+
+
+## 2025
+
 ### Avril
 
 #### Solde au 25 avril
@@ -40,6 +46,12 @@
 | **Due Tiago** | **$10,064.04** |
 | **Due Djam**  | **$3,742.20**  |
 
+> [!IMPORTANT]
+>
+> Tiago a payé $7,086.23. Il reste **$2,977.81** a payer.
+
+
+
 ---
 
 ### Mai
@@ -63,6 +75,7 @@
 #### Paiements par Tiago
 
 - **Loyer:** `$1,073.00`
+- **Costco:** `$509.70`
 
 ---
 
@@ -84,8 +97,12 @@
 
 | Total payé    | $6,989.00     |
 | ------------- | :------------ |
-| **Due Tiago** | **$3,054.00** |
-| **Due Djam**  | **$2,148.00** |
+| **Due Tiago** | **$2,800.00** |
+| **Due Djam**  | **$2,403.00** |
+
+> [!NOTE]
+>
+> $3,202.00 pour payer la carte de crédit et $2,000.00 pour rembourser le compte chéque
 
 ---
 
@@ -93,8 +110,8 @@
 
 #### Solde au 25 juin
 
-- **Solde:** `$5,959.21`
-- *(On voit $9,162.01 mais le montant de mai doit être prélevé: $3,202.80)*
+- **Solde:** `$3,959.21`
+- *(On voit $9,162.01 mais le montant de mai doit être prélevé: $5,202.80)*
 
 ---
 
@@ -133,5 +150,12 @@
 
 | Total payé    | $7,125.00     |
 | ------------- | :------------ |
-| **Due Tiago** | **$2,432.07** |
-| **Due Djam**  | **$3,299.64** |
+| **Due Tiago** | **$1,740.25** |
+| **Due Djam**  | **$2,299.64** |
+
+> [!NOTE]
+>
+> transférer $113.75 du compte chèque vers BMO (beneva)
+
+
+
